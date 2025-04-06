@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sathyaprakash06/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sathyaprakash06/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Sathyaprakash06/leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Sathyaprakash06/leetcode/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sathyaprakash06/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sathyaprakash06/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sathyaprakash06/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
