@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sathyaprakash06/leetcode/tree/master/0048-rotate-image) |
 | [0777-toeplitz-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0898-transpose-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/Sathyaprakash06/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sathyaprakash06/leetcode/tree/master/0048-rotate-image) |
 | [0777-toeplitz-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0898-transpose-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/Sathyaprakash06/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
