@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sathyaprakash06/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Sathyaprakash06/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2102-find-the-middle-index-in-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -134,4 +135,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sathyaprakash06/leetcode/tree/master/0724-find-pivot-index) |
+| [2102-find-the-middle-index-in-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
