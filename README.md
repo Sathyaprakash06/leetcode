@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0898-transpose-matrix) |
 | [1293-three-consecutive-odds](https://github.com/Sathyaprakash06/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Sathyaprakash06/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1635-number-of-good-pairs](https://github.com/Sathyaprakash06/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Sathyaprakash06/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Sathyaprakash06/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
