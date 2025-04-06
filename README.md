@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Sathyaprakash06/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sathyaprakash06/leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Sathyaprakash06/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Sathyaprakash06/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Sathyaprakash06/leetcode/tree/master/0070-climbing-stairs) |
 ## Matrix
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sathyaprakash06/leetcode/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Sathyaprakash06/leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
