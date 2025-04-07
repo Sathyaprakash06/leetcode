@@ -11,7 +11,7 @@ class Solution {
 		int p=x/n,q=x%n;
     	for(i=0;i<n;i++)  {
     		arr[i]=p+(q>0?1:0);
-    		q--;
+            q--;
     	}
     	return arr;
     }
