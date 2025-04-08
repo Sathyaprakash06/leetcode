@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sathyaprakash06/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Sathyaprakash06/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0169-majority-element](https://github.com/Sathyaprakash06/leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sathyaprakash06/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sathyaprakash06/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Sathyaprakash06/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sathyaprakash06/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sathyaprakash06/leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sathyaprakash06/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0169-majority-element](https://github.com/Sathyaprakash06/leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathyaprakash06/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Sathyaprakash06/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sathyaprakash06/leetcode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathyaprakash06/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Sathyaprakash06/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sathyaprakash06/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sathyaprakash06/leetcode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Sathyaprakash06/leetcode/tree/master/1635-number-of-good-pairs) |
 | [3324-split-the-array](https://github.com/Sathyaprakash06/leetcode/tree/master/3324-split-the-array) |
 ## Counting Sort
