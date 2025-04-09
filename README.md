@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sathyaprakash06/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sathyaprakash06/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3379-score-of-a-string](https://github.com/Sathyaprakash06/leetcode/tree/master/3379-score-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
