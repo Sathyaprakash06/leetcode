@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sathyaprakash06/leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Sathyaprakash06/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/Sathyaprakash06/leetcode/tree/master/0724-find-pivot-index) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sathyaprakash06/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Sathyaprakash06/leetcode/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/Sathyaprakash06/leetcode/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1086-divisor-game](https://github.com/Sathyaprakash06/leetcode/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sathyaprakash06/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Sathyaprakash06/leetcode/tree/master/1635-number-of-good-pairs) |
