@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sathyaprakash06/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/Sathyaprakash06/leetcode/tree/master/0043-multiply-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sathyaprakash06/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Sathyaprakash06/leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Sathyaprakash06/leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Sathyaprakash06/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sathyaprakash06/leetcode/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0392-is-subsequence) |
 | [1086-divisor-game](https://github.com/Sathyaprakash06/leetcode/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sathyaprakash06/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sathyaprakash06/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0392-is-subsequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sathyaprakash06/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0941-sort-array-by-parity](https://github.com/Sathyaprakash06/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sathyaprakash06/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
