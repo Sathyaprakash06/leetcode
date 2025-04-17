@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sathyaprakash06/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3324-split-the-array](https://github.com/Sathyaprakash06/leetcode/tree/master/3324-split-the-array) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sathyaprakash06/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Sathyaprakash06/leetcode/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sathyaprakash06/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sathyaprakash06/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
