@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3379-score-of-a-string](https://github.com/Sathyaprakash06/leetcode/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3540-hash-divided-string](https://github.com/Sathyaprakash06/leetcode/tree/master/3540-hash-divided-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2058-concatenation-of-array) |
 | [2155-find-missing-observations](https://github.com/Sathyaprakash06/leetcode/tree/master/2155-find-missing-observations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sathyaprakash06/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3540-hash-divided-string](https://github.com/Sathyaprakash06/leetcode/tree/master/3540-hash-divided-string) |
 ## Brainteaser
 |  |
 | ------- |
