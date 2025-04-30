@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Sathyaprakash06/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Sathyaprakash06/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Sathyaprakash06/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathyaprakash06/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Sathyaprakash06/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1603-running-sum-of-1d-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1086-divisor-game](https://github.com/Sathyaprakash06/leetcode/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sathyaprakash06/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Sathyaprakash06/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Sathyaprakash06/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Sathyaprakash06/leetcode/tree/master/2155-find-missing-observations) |
