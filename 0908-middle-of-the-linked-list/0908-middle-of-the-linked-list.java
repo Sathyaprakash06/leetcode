@@ -18,7 +18,7 @@ class Solution {
         }
         int c =0;
         ListNode t = head;
-        while(c<count/2){
+        while(count/2>c){
             t=t.next;
             c++;
         }
