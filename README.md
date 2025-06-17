@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sathyaprakash06/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sathyaprakash06/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sathyaprakash06/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sathyaprakash06/leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sathyaprakash06/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0128-longest-consecutive-sequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sathyaprakash06/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sathyaprakash06/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0206-reverse-linked-list) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
