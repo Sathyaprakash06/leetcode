@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Sathyaprakash06/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0944-smallest-range-i](https://github.com/Sathyaprakash06/leetcode/tree/master/0944-smallest-range-i) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1137-height-checker](https://github.com/Sathyaprakash06/leetcode/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Sathyaprakash06/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sathyaprakash06/leetcode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sathyaprakash06/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0944-smallest-range-i](https://github.com/Sathyaprakash06/leetcode/tree/master/0944-smallest-range-i) |
 | [1086-divisor-game](https://github.com/Sathyaprakash06/leetcode/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sathyaprakash06/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sathyaprakash06/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
