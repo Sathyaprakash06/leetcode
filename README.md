@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sathyaprakash06/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3324-split-the-array](https://github.com/Sathyaprakash06/leetcode/tree/master/3324-split-the-array) |
+| [3429-special-array-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3429-special-array-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sathyaprakash06/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
