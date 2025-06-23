@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Sathyaprakash06/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sathyaprakash06/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Sathyaprakash06/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Sathyaprakash06/leetcode/tree/master/0043-multiply-strings) |
 | [0290-word-pattern](https://github.com/Sathyaprakash06/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sathyaprakash06/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Sathyaprakash06/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Sathyaprakash06/leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Sathyaprakash06/leetcode/tree/master/0520-detect-capital) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sathyaprakash06/leetcode/tree/master/0029-divide-two-integers) |
+| [0389-find-the-difference](https://github.com/Sathyaprakash06/leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Sathyaprakash06/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Sathyaprakash06/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Sathyaprakash06/leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sathyaprakash06/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/Sathyaprakash06/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/Sathyaprakash06/leetcode/tree/master/1137-height-checker) |
