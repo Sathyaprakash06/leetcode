@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sathyaprakash06/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sathyaprakash06/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sathyaprakash06/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sathyaprakash06/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Sathyaprakash06/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sathyaprakash06/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sathyaprakash06/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String Matching
