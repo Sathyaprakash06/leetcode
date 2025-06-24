@@ -8,6 +8,6 @@ class Solution {
             if(map.get(i)==1)
             return i;
         }
-        return 1;
+        return -1;
     }
 }
