@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/Sathyaprakash06/leetcode/tree/master/0944-smallest-range-i) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1137-height-checker](https://github.com/Sathyaprakash06/leetcode/tree/master/1137-height-checker) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Sathyaprakash06/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Sathyaprakash06/leetcode/tree/master/1293-three-consecutive-odds) |
