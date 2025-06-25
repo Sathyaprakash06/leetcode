@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sathyaprakash06/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Sathyaprakash06/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sathyaprakash06/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sathyaprakash06/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Sathyaprakash06/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Sathyaprakash06/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sathyaprakash06/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Sathyaprakash06/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
 | ------- |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Sathyaprakash06/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sathyaprakash06/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3324-split-the-array](https://github.com/Sathyaprakash06/leetcode/tree/master/3324-split-the-array) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sathyaprakash06/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Sathyaprakash06/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Counting Sort
 |  |
 | ------- |
