@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sathyaprakash06/leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Sathyaprakash06/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Sathyaprakash06/leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sathyaprakash06/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Sathyaprakash06/leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/Sathyaprakash06/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Sathyaprakash06/leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Sathyaprakash06/leetcode/tree/master/0389-find-the-difference) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bucket Sort
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
