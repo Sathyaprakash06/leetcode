@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sathyaprakash06/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/Sathyaprakash06/leetcode/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/Sathyaprakash06/leetcode/tree/master/0071-simplify-path) |
+| [0214-shortest-palindrome](https://github.com/Sathyaprakash06/leetcode/tree/master/0214-shortest-palindrome) |
 | [0290-word-pattern](https://github.com/Sathyaprakash06/leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Sathyaprakash06/leetcode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sathyaprakash06/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sathyaprakash06/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Sathyaprakash06/leetcode/tree/master/0214-shortest-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sathyaprakash06/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Number Theory
 |  |
@@ -383,4 +385,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Sathyaprakash06/leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Sathyaprakash06/leetcode/tree/master/0584-find-customer-referee) |
 | [1153-product-sales-analysis-i](https://github.com/Sathyaprakash06/leetcode/tree/master/1153-product-sales-analysis-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sathyaprakash06/leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sathyaprakash06/leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
