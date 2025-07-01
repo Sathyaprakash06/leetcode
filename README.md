@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Sathyaprakash06/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Sathyaprakash06/leetcode/tree/master/0944-smallest-range-i) |
+| [0946-smallest-range-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0946-smallest-range-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1137-height-checker](https://github.com/Sathyaprakash06/leetcode/tree/master/1137-height-checker) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sathyaprakash06/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0944-smallest-range-i](https://github.com/Sathyaprakash06/leetcode/tree/master/0944-smallest-range-i) |
+| [0946-smallest-range-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0946-smallest-range-ii) |
 | [1086-divisor-game](https://github.com/Sathyaprakash06/leetcode/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sathyaprakash06/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sathyaprakash06/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sathyaprakash06/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/Sathyaprakash06/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0946-smallest-range-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0946-smallest-range-ii) |
 | [1137-height-checker](https://github.com/Sathyaprakash06/leetcode/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathyaprakash06/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0946-smallest-range-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0946-smallest-range-ii) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 ## Queue
 |  |
