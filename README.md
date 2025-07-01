@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Sathyaprakash06/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3540-hash-divided-string](https://github.com/Sathyaprakash06/leetcode/tree/master/3540-hash-divided-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sathyaprakash06/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
