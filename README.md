@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sathyaprakash06/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Sathyaprakash06/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sathyaprakash06/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sathyaprakash06/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Matrix
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Sathyaprakash06/leetcode/tree/master/0029-divide-two-integers) |
 | [0389-find-the-difference](https://github.com/Sathyaprakash06/leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Sathyaprakash06/leetcode/tree/master/0461-hamming-distance) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Sathyaprakash06/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3540-hash-divided-string](https://github.com/Sathyaprakash06/leetcode/tree/master/3540-hash-divided-string) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0234-palindrome-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Union Find
 |  |
 | ------- |
