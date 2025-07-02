@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sathyaprakash06/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sathyaprakash06/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Sathyaprakash06/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Sathyaprakash06/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sathyaprakash06/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sathyaprakash06/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sathyaprakash06/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Sathyaprakash06/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/Sathyaprakash06/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sathyaprakash06/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3379-score-of-a-string](https://github.com/Sathyaprakash06/leetcode/tree/master/3379-score-of-a-string) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sathyaprakash06/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Sathyaprakash06/leetcode/tree/master/0214-shortest-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sathyaprakash06/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Sathyaprakash06/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Number Theory
 |  |
 | ------- |
