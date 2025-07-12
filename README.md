@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sathyaprakash06/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sathyaprakash06/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Sathyaprakash06/leetcode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sathyaprakash06/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Sathyaprakash06/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Two Pointers
@@ -472,4 +473,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sathyaprakash06/leetcode/tree/master/0042-trapping-rain-water) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sathyaprakash06/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sathyaprakash06/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sathyaprakash06/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
