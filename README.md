@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathyaprakash06/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Sathyaprakash06/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Sathyaprakash06/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Sathyaprakash06/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Sathyaprakash06/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Sathyaprakash06/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathyaprakash06/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Sathyaprakash06/leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Sathyaprakash06/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
