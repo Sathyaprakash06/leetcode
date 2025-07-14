@@ -14,12 +14,12 @@
  * }
  */
 class Solution {
-    static int max=Integer.MIN_VALUE;
+    private int max=Integer.MIN_VALUE;
     public int maxPathSum(TreeNode root) {
         sum(root);
         return max;
     }
-  private int sum(TreeNode root){
+   int sum(TreeNode root){
         if(root==null)
         return 0 ;
         int left=Math.max(sum(root.left),0);
