@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sathyaprakash06/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sathyaprakash06/leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sathyaprakash06/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Sathyaprakash06/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sathyaprakash06/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Sathyaprakash06/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sathyaprakash06/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Sathyaprakash06/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Sathyaprakash06/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0147-insertion-sort-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -536,4 +540,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sathyaprakash06/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sathyaprakash06/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sathyaprakash06/leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
