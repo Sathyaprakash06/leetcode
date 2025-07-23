@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sathyaprakash06/leetcode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sathyaprakash06/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Sathyaprakash06/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0944-smallest-range-i](https://github.com/Sathyaprakash06/leetcode/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0946-smallest-range-ii) |
 | [1086-divisor-game](https://github.com/Sathyaprakash06/leetcode/tree/master/1086-divisor-game) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Sathyaprakash06/leetcode/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/Sathyaprakash06/leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Sathyaprakash06/leetcode/tree/master/0461-hamming-distance) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Sathyaprakash06/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Sathyaprakash06/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sathyaprakash06/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
