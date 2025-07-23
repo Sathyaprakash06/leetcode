@@ -1,9 +1,14 @@
 class Solution {
     public int scoreOfString(String s) {
+
+        char[]ch=s.toCharArray();
         int sum=0;
-        for(int i=0;i<s.length()-1;i++){
-            sum+=Math.abs(s.charAt(i)-s.charAt(i+1));
+        int s1=0;
+        for(int i=0;i<ch.length-1;i++){
+           sum=Math.abs(ch[i]-ch[i+1]);
+           s1+=sum;
+           System.out.print(s1);
         }
-        return sum;
+        return s1;
     }
 }
