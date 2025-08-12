@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Sathyaprakash06/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Sathyaprakash06/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sathyaprakash06/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sathyaprakash06/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sathyaprakash06/leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Sathyaprakash06/leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Sathyaprakash06/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sathyaprakash06/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sathyaprakash06/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0219-contains-duplicate-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Sathyaprakash06/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
