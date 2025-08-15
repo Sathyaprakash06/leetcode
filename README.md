@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Sathyaprakash06/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Sathyaprakash06/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Sathyaprakash06/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sathyaprakash06/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sathyaprakash06/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1961-maximum-ice-cream-bars](https://github.com/Sathyaprakash06/leetcode/tree/master/1961-maximum-ice-cream-bars) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sathyaprakash06/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sathyaprakash06/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Sathyaprakash06/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Sathyaprakash06/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Sathyaprakash06/leetcode/tree/master/2155-find-missing-observations) |
 | [2491-smallest-even-multiple](https://github.com/Sathyaprakash06/leetcode/tree/master/2491-smallest-even-multiple) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Sathyaprakash06/leetcode/tree/master/1086-divisor-game) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Sathyaprakash06/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Sathyaprakash06/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Trie
 |  |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathyaprakash06/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sathyaprakash06/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Sathyaprakash06/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/Sathyaprakash06/leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Sathyaprakash06/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Sathyaprakash06/leetcode/tree/master/0561-array-partition) |
 | [0946-smallest-range-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0946-smallest-range-ii) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Sathyaprakash06/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/Sathyaprakash06/leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sathyaprakash06/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
