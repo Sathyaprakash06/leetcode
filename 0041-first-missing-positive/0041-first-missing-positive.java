@@ -1,12 +1,11 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
-        int tar=1;
-        for(int i:nums){
-            if(i==tar){
-                tar++;
-            }}
-            return tar;
-
+        int count=1;
+        Arrays.sort(nums);
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]==count)
+            count++;
         }
-
+        return count;
+    }
 }
