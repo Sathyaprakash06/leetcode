@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sathyaprakash06/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/Sathyaprakash06/leetcode/tree/master/0782-jewels-and-stones) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Sathyaprakash06/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sathyaprakash06/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/Sathyaprakash06/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sathyaprakash06/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/Sathyaprakash06/leetcode/tree/master/0782-jewels-and-stones) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Sathyaprakash06/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sathyaprakash06/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sathyaprakash06/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sathyaprakash06/leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sathyaprakash06/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sathyaprakash06/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Sathyaprakash06/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Sathyaprakash06/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Sathyaprakash06/leetcode/tree/master/1635-number-of-good-pairs) |
