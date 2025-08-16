@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sathyaprakash06/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sathyaprakash06/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Sathyaprakash06/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2427-first-letter-to-appear-twice](https://github.com/Sathyaprakash06/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sathyaprakash06/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3324-split-the-array](https://github.com/Sathyaprakash06/leetcode/tree/master/3324-split-the-array) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sathyaprakash06/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Sathyaprakash06/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/Sathyaprakash06/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/Sathyaprakash06/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sathyaprakash06/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3379-score-of-a-string](https://github.com/Sathyaprakash06/leetcode/tree/master/3379-score-of-a-string) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sathyaprakash06/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Sathyaprakash06/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sathyaprakash06/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2427-first-letter-to-appear-twice](https://github.com/Sathyaprakash06/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Sathyaprakash06/leetcode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sathyaprakash06/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Sathyaprakash06/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2427-first-letter-to-appear-twice](https://github.com/Sathyaprakash06/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sathyaprakash06/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sathyaprakash06/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3324-split-the-array](https://github.com/Sathyaprakash06/leetcode/tree/master/3324-split-the-array) |
