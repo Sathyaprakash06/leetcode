@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sathyaprakash06/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sathyaprakash06/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0697-degree-of-an-array) |
+| [0713-subarray-product-less-than-k](https://github.com/Sathyaprakash06/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Sathyaprakash06/leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sathyaprakash06/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0777-toeplitz-matrix) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/Sathyaprakash06/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sathyaprakash06/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sathyaprakash06/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Sathyaprakash06/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Sathyaprakash06/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Dynamic Programming
 |  |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sathyaprakash06/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/Sathyaprakash06/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Sathyaprakash06/leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2102-find-the-middle-index-in-array) |
