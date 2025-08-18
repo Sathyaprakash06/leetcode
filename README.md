@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/Sathyaprakash06/leetcode/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0946-smallest-range-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Sathyaprakash06/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sathyaprakash06/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1137-height-checker](https://github.com/Sathyaprakash06/leetcode/tree/master/1137-height-checker) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sathyaprakash06/leetcode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0898-transpose-matrix) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Sathyaprakash06/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [2058-concatenation-of-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2058-concatenation-of-array) |
 | [2155-find-missing-observations](https://github.com/Sathyaprakash06/leetcode/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sathyaprakash06/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
