@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sathyaprakash06/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sathyaprakash06/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sathyaprakash06/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0697-degree-of-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Sathyaprakash06/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Sathyaprakash06/leetcode/tree/master/0724-find-pivot-index) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sathyaprakash06/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0392-is-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sathyaprakash06/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1086-divisor-game](https://github.com/Sathyaprakash06/leetcode/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Sathyaprakash06/leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sathyaprakash06/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sathyaprakash06/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0941-sort-array-by-parity](https://github.com/Sathyaprakash06/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0946-smallest-range-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0946-smallest-range-ii) |
 | [1137-height-checker](https://github.com/Sathyaprakash06/leetcode/tree/master/1137-height-checker) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Sathyaprakash06/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/Sathyaprakash06/leetcode/tree/master/0561-array-partition) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sathyaprakash06/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0946-smallest-range-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0946-smallest-range-ii) |
 | [1448-maximum-69-number](https://github.com/Sathyaprakash06/leetcode/tree/master/1448-maximum-69-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Sathyaprakash06/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
