@@ -1,33 +1,26 @@
  class Solution {
     public int lengthOfLongestSubstring(String s) {
+Map<Character, Integer> map = new HashMap<>();
         int maxLength = 0;
-        int start = 0;
-        Set<Character> seen = new HashSet<>();
+        int start = 0; // Start of sliding window
 
         for (int end = 0; end < s.length(); end++) {
-            char currentChar = s.charAt(end);
+            char ch = s.charAt(end);
 
-            // If current character is already in the set, remove characters from start until it's not
-            while (seen.contains(currentChar)) {
-                seen.remove(s.charAt(start));
-                start++;
+            // If character is already seen, move start pointer
+            if (map.containsKey(ch)) {
+                start = Math.max(start, map.get(ch) + 1);
             }
 
-            // Add the current character to the set
-            seen.add(currentChar);
+            // Update the latest index of the current character
+            map.put(ch, end);
 
-            // Calculate the length of the current window and update maxLength if necessary
+            // Update max length
             maxLength = Math.max(maxLength, end - start + 1);
         }
 
         return maxLength;
-    }
-
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        String s = "abcabcbb";
-        System.out.println("Length of longest substring without repeating characters: " + solution.lengthOfLongestSubstring(s));
-    }
+        }
 }
 
 
