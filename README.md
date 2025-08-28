@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Sathyaprakash06/leetcode/tree/master/2155-find-missing-observations) |
 | [2491-smallest-even-multiple](https://github.com/Sathyaprakash06/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Sathyaprakash06/leetcode/tree/master/2556-convert-the-temperature) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Sathyaprakash06/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2650-split-with-minimum-sum](https://github.com/Sathyaprakash06/leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2722-prime-in-diagonal](https://github.com/Sathyaprakash06/leetcode/tree/master/2722-prime-in-diagonal) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Sathyaprakash06/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Sathyaprakash06/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2722-prime-in-diagonal](https://github.com/Sathyaprakash06/leetcode/tree/master/2722-prime-in-diagonal) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sathyaprakash06/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sorting
