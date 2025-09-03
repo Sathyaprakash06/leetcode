@@ -6,7 +6,7 @@ class Solution {
         }
         LinkedList<String> list = new LinkedList<>();
 
-while (k != 0 && !map.isEmpty()) {
+while (k != 0 ) {
     int max = 0;
     String val = "";
 
