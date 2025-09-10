@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Sathyaprakash06/leetcode/tree/master/2155-find-missing-observations) |
 | [2491-smallest-even-multiple](https://github.com/Sathyaprakash06/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Sathyaprakash06/leetcode/tree/master/2556-convert-the-temperature) |
+| [2571-find-the-pivot-integer](https://github.com/Sathyaprakash06/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Sathyaprakash06/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2650-split-with-minimum-sum](https://github.com/Sathyaprakash06/leetcode/tree/master/2650-split-with-minimum-sum) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Sathyaprakash06/leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2571-find-the-pivot-integer](https://github.com/Sathyaprakash06/leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Counting
 |  |
 | ------- |
