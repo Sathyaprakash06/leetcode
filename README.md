@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sathyaprakash06/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Sathyaprakash06/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sathyaprakash06/leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1954-replace-all-digits-with-characters](https://github.com/Sathyaprakash06/leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sathyaprakash06/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sathyaprakash06/leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Sathyaprakash06/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
