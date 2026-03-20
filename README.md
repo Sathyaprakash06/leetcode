@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sathyaprakash06/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0837-most-common-word](https://github.com/Sathyaprakash06/leetcode/tree/master/0837-most-common-word) |
+| [0881-boats-to-save-people](https://github.com/Sathyaprakash06/leetcode/tree/master/0881-boats-to-save-people) |
 | [0898-transpose-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Sathyaprakash06/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Sathyaprakash06/leetcode/tree/master/0944-smallest-range-i) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sathyaprakash06/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0881-boats-to-save-people](https://github.com/Sathyaprakash06/leetcode/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/Sathyaprakash06/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Sathyaprakash06/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sathyaprakash06/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sathyaprakash06/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sathyaprakash06/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/Sathyaprakash06/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/Sathyaprakash06/leetcode/tree/master/0881-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Sathyaprakash06/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0946-smallest-range-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0946-smallest-range-ii) |
 | [1137-height-checker](https://github.com/Sathyaprakash06/leetcode/tree/master/1137-height-checker) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Sathyaprakash06/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/Sathyaprakash06/leetcode/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sathyaprakash06/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0881-boats-to-save-people](https://github.com/Sathyaprakash06/leetcode/tree/master/0881-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0946-smallest-range-ii) |
 | [1448-maximum-69-number](https://github.com/Sathyaprakash06/leetcode/tree/master/1448-maximum-69-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Sathyaprakash06/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
