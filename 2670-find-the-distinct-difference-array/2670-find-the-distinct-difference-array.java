@@ -12,7 +12,6 @@ class Solution {
         }
         arr[i]=set1.size()-set.size();
       }
-      Arrays.sort(nums);
       return arr;
     }
 }
