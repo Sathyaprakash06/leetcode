@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sathyaprakash06/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Sathyaprakash06/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2670-find-the-distinct-difference-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2722-prime-in-diagonal](https://github.com/Sathyaprakash06/leetcode/tree/master/2722-prime-in-diagonal) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sathyaprakash06/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/Sathyaprakash06/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/Sathyaprakash06/leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sathyaprakash06/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2670-find-the-distinct-difference-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3324-split-the-array](https://github.com/Sathyaprakash06/leetcode/tree/master/3324-split-the-array) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
