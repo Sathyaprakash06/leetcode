@@ -1,9 +1,8 @@
 class Solution {
     public int minimumPairRemoval(int[] nums) {
-        PriorityQueue<Integer>pq=new PriorityQueue();
         int c=0;
         int n=nums.length;
-        while(!bol(nums)){
+        while(!sort(nums)){
             int[]arr=new int[n-1];
             int min=Integer.MAX_VALUE;
             int ind1=0;
@@ -28,7 +27,7 @@ class Solution {
         }
         return c;
     }
-    public static boolean bol(int[]arr){
+    public static boolean sort(int[]arr){
         int c=0;
         for(int i=0;i<arr.length-1;i++){
             if(arr[i]>arr[i+1]){
