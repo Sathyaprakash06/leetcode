@@ -4,8 +4,6 @@ class Solution {
        
        for(int i:stones){
         pq.add(i);}
-
-        System.out.print(pq);
         while(pq.size()>1){
             int a=pq.poll();
             int b=pq.poll();
