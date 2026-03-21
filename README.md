@@ -709,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sathyaprakash06/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sathyaprakash06/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Sathyaprakash06/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sathyaprakash06/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sathyaprakash06/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sathyaprakash06/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Sathyaprakash06/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sathyaprakash06/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sathyaprakash06/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sathyaprakash06/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Sathyaprakash06/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sathyaprakash06/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -737,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sathyaprakash06/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sathyaprakash06/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sathyaprakash06/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sathyaprakash06/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Merge Sort
 |  |
 | ------- |
@@ -755,4 +759,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Sathyaprakash06/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
