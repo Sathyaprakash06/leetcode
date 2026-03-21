@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/Sathyaprakash06/leetcode/tree/master/3324-split-the-array) |
 | [3429-special-array-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Sathyaprakash06/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3819-rotate-non-negative-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/3819-rotate-non-negative-elements) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sathyaprakash06/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sathyaprakash06/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sathyaprakash06/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2722-prime-in-diagonal](https://github.com/Sathyaprakash06/leetcode/tree/master/2722-prime-in-diagonal) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Sathyaprakash06/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sathyaprakash06/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Sathyaprakash06/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## String Matching
 |  |
 | ------- |
