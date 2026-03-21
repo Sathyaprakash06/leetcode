@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2722-prime-in-diagonal](https://github.com/Sathyaprakash06/leetcode/tree/master/2722-prime-in-diagonal) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sathyaprakash06/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Sathyaprakash06/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3324-split-the-array](https://github.com/Sathyaprakash06/leetcode/tree/master/3324-split-the-array) |
 | [3429-special-array-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3429-special-array-i) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sathyaprakash06/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2650-split-with-minimum-sum](https://github.com/Sathyaprakash06/leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sathyaprakash06/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Sathyaprakash06/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Prefix Sum
 |  |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sathyaprakash06/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Sathyaprakash06/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2650-split-with-minimum-sum](https://github.com/Sathyaprakash06/leetcode/tree/master/2650-split-with-minimum-sum) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Sathyaprakash06/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Queue
 |  |
 | ------- |
