@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Sathyaprakash06/leetcode/tree/master/0837-most-common-word) |
 | [0881-boats-to-save-people](https://github.com/Sathyaprakash06/leetcode/tree/master/0881-boats-to-save-people) |
 | [0898-transpose-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0898-transpose-matrix) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sathyaprakash06/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0941-sort-array-by-parity](https://github.com/Sathyaprakash06/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Sathyaprakash06/leetcode/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0946-smallest-range-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Sathyaprakash06/leetcode/tree/master/0477-total-hamming-distance) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sathyaprakash06/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Sathyaprakash06/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sathyaprakash06/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0944-smallest-range-i](https://github.com/Sathyaprakash06/leetcode/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0946-smallest-range-ii) |
 | [1086-divisor-game](https://github.com/Sathyaprakash06/leetcode/tree/master/1086-divisor-game) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/Sathyaprakash06/leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/Sathyaprakash06/leetcode/tree/master/0837-most-common-word) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sathyaprakash06/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sathyaprakash06/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sathyaprakash06/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Sathyaprakash06/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Sathyaprakash06/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -533,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Sathyaprakash06/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Sathyaprakash06/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/Sathyaprakash06/leetcode/tree/master/0837-most-common-word) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sathyaprakash06/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sathyaprakash06/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Sathyaprakash06/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
