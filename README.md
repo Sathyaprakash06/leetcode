@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/Sathyaprakash06/leetcode/tree/master/3324-split-the-array) |
 | [3429-special-array-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sathyaprakash06/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3819-rotate-non-negative-elements](https://github.com/Sathyaprakash06/leetcode/tree/master/3819-rotate-non-negative-elements) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sathyaprakash06/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/Sathyaprakash06/leetcode/tree/master/3324-split-the-array) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Sathyaprakash06/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3692-majority-frequency-characters](https://github.com/Sathyaprakash06/leetcode/tree/master/3692-majority-frequency-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sathyaprakash06/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sathyaprakash06/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sathyaprakash06/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2470-removing-stars-from-a-string](https://github.com/Sathyaprakash06/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Sathyaprakash06/leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3540-hash-divided-string](https://github.com/Sathyaprakash06/leetcode/tree/master/3540-hash-divided-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Sathyaprakash06/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/Sathyaprakash06/leetcode/tree/master/1046-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -633,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/Sathyaprakash06/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sathyaprakash06/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sathyaprakash06/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -740,4 +745,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sathyaprakash06/leetcode/tree/master/0022-generate-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sathyaprakash06/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sathyaprakash06/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
