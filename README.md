@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-smallest-range-ii](https://github.com/Sathyaprakash06/leetcode/tree/master/0946-smallest-range-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Sathyaprakash06/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1046-last-stone-weight](https://github.com/Sathyaprakash06/leetcode/tree/master/1046-last-stone-weight) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sathyaprakash06/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1137-height-checker](https://github.com/Sathyaprakash06/leetcode/tree/master/1137-height-checker) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sathyaprakash06/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Sathyaprakash06/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Sathyaprakash06/leetcode/tree/master/0692-top-k-frequent-words) |
+| [1046-last-stone-weight](https://github.com/Sathyaprakash06/leetcode/tree/master/1046-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sathyaprakash06/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
